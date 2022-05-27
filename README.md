@@ -1,3 +1,3 @@
 # ag-charts-angular-legacy-example
 
-Legacy example
+Legacy example# ag-charts-angular-legacy-example
