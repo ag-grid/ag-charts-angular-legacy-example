@@ -1,6 +1,6 @@
 import {async, TestBed} from '@angular/core/testing';
 import {AppComponent} from './app.component';
-import {AgChartsAngularModule} from "ag-charts-angular";
+import {AgChartsAngularModule} from "ag-charts-angular-legacy";
 
 describe('AppComponent', () => {
     beforeEach(async(() => {
