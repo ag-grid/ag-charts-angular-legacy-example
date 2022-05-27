@@ -1,5 +1,5 @@
 {
-  "name": "ag-charts-angular-example",
+  "name": "ag-charts-angular-legacy-example",
   "version": "5.3.0",
   "scripts": {
     "ng": "ng",
