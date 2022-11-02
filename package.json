@@ -1,6 +1,6 @@
 {
   "name": "ag-charts-angular-legacy-example",
-  "version": "6.2.0",
+  "version": "6.2.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve --port 8080",
@@ -11,8 +11,8 @@
   },
   "private": true,
   "dependencies": {
-    "ag-charts-angular-legacy": "~6.2.0",
-    "ag-charts-community": "~6.2.0",
+    "ag-charts-angular-legacy": "~6.2.1",
+    "ag-charts-community": "~6.2.1",
     "@angular/animations": "~11.2.12",
     "@angular/common": "~11.2.12",
     "@angular/compiler": "~11.2.12",
